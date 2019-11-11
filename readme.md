@@ -36,7 +36,7 @@ $ npm run start
 
 ### 網頁功能
 能夠透過搜尋的功能立即找到你要的餐廳，也能夠點擊查看特定餐廳的詳細資訊。
-![image](https://github.com/tonyfang1992/ac_restaurantList/blob/master/login.png)
+![image](https://github.com/tonyfang1992/AC_login/blob/master/login.png)
 
 ## Authors
 
